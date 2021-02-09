@@ -1,2 +1,2 @@
 # HelloWorld
-Hello World is an example project!
+Hello World is an Edit project!
